@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h1{
+    text-transform: uppercase;
+    background: red;
+    text-align: center;
+}
+
+h2 {
+    background: green;
+    text-align: center;
+}
+
+h3 {
+    background: orange;
+    text-align: center;
+}
+h4 {
+    background: rgb(43, 0, 255);
+    text-align: center;
+}
+h5 {
+    background: rgb(255, 0, 251);
+    text-align: center;
+}
+h6 {
+    background: rgb(0, 255, 200);
+    text-align: center;
+}
+p {
+    background: rgb(217, 255, 0);
+    text-align: center;
+}
